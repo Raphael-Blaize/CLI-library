@@ -10,4 +10,4 @@ if len(sys.argv) == 2:
   #printing the argument at location 1
     hello(sys.argv[1])
 else:
-  sys.exit
+    sys.exit
